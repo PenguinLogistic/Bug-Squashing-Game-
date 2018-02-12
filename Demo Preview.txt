@@ -1,0 +1,1 @@
+The following is a small game made from HTML/CSS/Javascript. The user clicks on bugs to keep them away from the food. Points are awarded for getting rid of bugs, and the game continues forever until all the food is eaten/taken away by the bugs. There are various difficulties which determine the bug speed.
