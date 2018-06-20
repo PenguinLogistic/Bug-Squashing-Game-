@@ -1,0 +1,66 @@
+body {
+ font-family: Calibri;
+ text-align: center;
+}
+
+header {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:51px;
+height:60px;
+width:405px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+#startScreen{
+ height: 700px;
+ width: 400px;
+ border-style: solid;
+ border-width: 5px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+#gameScreen{
+ height: 600px;
+ width: 400px;
+ border-style: solid;
+ border-width: 5px;
+ margin-left: auto;
+ margin-right: auto;
+ display: none;
+}
+
+#infoBar{
+ height: 90px;
+ width: 400px;
+ border-style: solid;
+ border-width: 5px;
+ margin-left: auto;
+ margin-right: auto;
+ display: none;
+}
+
+#countDown{
+ float: left;
+  margin-right:85px;
+  margin-left:15px
+}
+
+#pauseButton{
+ float: left;
+ display: block;
+ margin-right:95px;
+ margin-top:15px;
+}
+
+#resumeButton{
+ float: left;
+ display: none;
+  margin-right:83px;
+   margin-top:15px;
+}
+
+#Score{
+ float:left;
+}
